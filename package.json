@@ -1,0 +1,24 @@
+{
+  "name": "bs4starter-rtl",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 RTL Workflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Sajjad Hossein Pour",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-v4-rtl": "^4.0.0-0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "mdbootstrap": "^4.5.0",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
